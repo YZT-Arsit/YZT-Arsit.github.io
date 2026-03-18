@@ -4,7 +4,7 @@ icon: fas fa-info-circle
 order: 4
 ---
 
-Hi, I'm **Zhaoting Yang**, a Ph.D. researcher at the **Institute of Information Engineering, Chinese Academy of Sciences**. My work spans machine learning, natural language processing, information retrieval, and AI system design, with an emphasis on building methods that are both empirically strong and practically reliable.
+Hi, I'm **Zhaoting Yang**, a Ph.D. researcher at the **Institute of Information Engineering, Chinese Academy of Sciences**. My work spans large model privacy protection, machine learning, natural language processing, information retrieval, and AI system design, with an emphasis on building methods that are both empirically strong and practically reliable.
 
 I am particularly interested in problems that require both research depth and engineering discipline, including model evaluation, domain adaptation, retrieval pipelines, and robust AI system development. I am currently interested in opportunities in **algorithm engineering, machine learning, research engineering, and applied AI**.
 
@@ -22,7 +22,8 @@ Major GPA: **3.74/4.0**
 
 - **Programming:** Python, SQL, C
 - **Machine Learning:** BERT-family models, LightGBM, domain adaptation, weak supervision, active learning
-- **Natural Language Processing:** long-document understanding, domain-specific modeling, retrieval-enhanced pipelines
+- **Natural Language Processing and Retrieval:** long-document understanding, domain-specific modeling, retrieval-enhanced pipelines
+- **Large Model Security and Privacy:** privacy-aware evaluation, robustness analysis, secure deployment concerns
 - **AI Systems:** evaluation design, robustness testing, tool-use workflows, system-oriented experimentation
 - **Languages:** English (Professional Working Proficiency, IELTS 7.0)
 
@@ -67,4 +68,4 @@ I am most interested in roles where I can contribute to:
 - Research-to-production collaboration in high-standard engineering teams
 
 ---
-Feel free to reach out via [Email](mailto:yangzhaoting21@mails.ucas.ac.cn) or connect with me on [LinkedIn](https://www.linkedin.com/in/zhaoting-yang).
+Feel free to reach out via [Email](mailto:yangzhaoting21@gmails.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/zhaoting-yang).

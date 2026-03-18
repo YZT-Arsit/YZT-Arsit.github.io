@@ -7,11 +7,11 @@ order: 1
 
 ## Summary
 
-Ph.D. researcher at the Institute of Information Engineering, Chinese Academy of Sciences, with training in machine learning, natural language processing, information retrieval, and AI system evaluation. Interested in algorithm engineering, applied machine learning, and research engineering roles.
+Ph.D. researcher at the Institute of Information Engineering, Chinese Academy of Sciences, with training in large model privacy protection, machine learning, natural language processing, information retrieval, and AI system evaluation. Interested in algorithm engineering, applied machine learning, and research engineering roles.
 
 ## Contact
 
-- Email: [yangzhaoting21@mails.ucas.ac.cn](mailto:yangzhaoting21@mails.ucas.ac.cn)
+- Email: [yangzhaoting21@gmails.com](mailto:yangzhaoting21@gmails.com)
 - GitHub: [YZT-Arsit](https://github.com/YZT-Arsit)
 - LinkedIn: [zhaoting-yang](https://www.linkedin.com/in/zhaoting-yang)
 
@@ -31,6 +31,7 @@ Ph.D. researcher at the Institute of Information Engineering, Chinese Academy of
 
 - **Programming:** Python, SQL, C
 - **Machine Learning:** BERT-family models, LightGBM, domain adaptation, weak supervision, active learning
+- **Large Model Privacy and Security:** privacy-aware evaluation, robustness analysis, secure deployment concerns
 - **NLP and Retrieval:** long-document retrieval, retrieval-enhanced generation, data pipeline design
 - **AI Systems:** evaluation pipelines, robustness testing, tool-use workflows, system-oriented experimentation
 
@@ -60,6 +61,7 @@ Ph.D. researcher at the Institute of Information Engineering, Chinese Academy of
 
 ## Research Interests
 
+- Large model privacy protection and secure AI systems
 - Machine learning for real-world and domain-specific tasks
 - Information retrieval and knowledge-intensive AI systems
 - Evaluation and robustness of complex AI workflows

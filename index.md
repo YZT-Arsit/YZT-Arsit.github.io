@@ -6,9 +6,9 @@ permalink: /
 
 # Zhaoting Yang
 
-**Ph.D. Researcher in Machine Learning and AI Systems**
+**Ph.D. Researcher in Large Model Privacy and AI Systems**
 
-I am a Ph.D. researcher at the Institute of Information Engineering, Chinese Academy of Sciences. My work focuses on machine learning, natural language processing, information retrieval, and AI system design, with particular interest in turning research ideas into reliable and well-evaluated systems.
+I am a Ph.D. researcher at the Institute of Information Engineering, Chinese Academy of Sciences. My work focuses on large model privacy protection, machine learning, natural language processing, information retrieval, and AI system design, with particular interest in turning research ideas into reliable and well-evaluated systems.
 
 I am currently interested in opportunities in:
 
@@ -17,14 +17,14 @@ I am currently interested in opportunities in:
 - Research engineering
 - AI system development
 
-[Resume](/resume/) | [About](/about/) | [GitHub](https://github.com/YZT-Arsit) | [LinkedIn](https://www.linkedin.com/in/zhaoting-yang) | [Email](mailto:yangzhaoting21@mails.ucas.ac.cn)
+[Resume](/resume/) | [About](/about/) | [GitHub](https://github.com/YZT-Arsit) | [LinkedIn](https://www.linkedin.com/in/zhaoting-yang) | [Email](mailto:yangzhaoting21@gmails.com)
 
 ---
 
 ## Snapshot
 
 - **Current role:** Ph.D. Student, Institute of Information Engineering, Chinese Academy of Sciences
-- **Research areas:** machine learning, natural language processing, information retrieval, AI systems
+- **Research areas:** large model privacy protection, machine learning, natural language processing, information retrieval, AI systems
 - **Primary languages:** Python, SQL, C
 - **Strengths:** model development, evaluation design, retrieval pipeline construction, research-to-engineering execution
 - **Language:** English professional working proficiency, IELTS 7.0
@@ -59,7 +59,7 @@ I am currently interested in opportunities in:
 
 ## Contact
 
-For opportunities, collaborations, or interviews, please reach out via [Email](mailto:yangzhaoting21@mails.ucas.ac.cn) or connect on [LinkedIn](https://www.linkedin.com/in/zhaoting-yang).
+For opportunities, collaborations, or interviews, please reach out via [Email](mailto:yangzhaoting21@gmails.com) or connect on [LinkedIn](https://www.linkedin.com/in/zhaoting-yang).
 
 ## Quick Links
 
