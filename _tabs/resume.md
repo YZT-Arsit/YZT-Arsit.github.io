@@ -7,7 +7,7 @@ order: 1
 
 ## Profile
 
-Ph.D. researcher in machine learning and AI systems at the Institute of Information Engineering, Chinese Academy of Sciences. My work combines model development, retrieval system design, evaluation methodology, and practical implementation for real-world tasks. I am seeking opportunities in algorithm engineering, applied machine learning, and research engineering.
+Ph.D. researcher in machine learning and AI systems at the Institute of Information Engineering, Chinese Academy of Sciences. My work combines model development, retrieval system design, evaluation methodology, and practical implementation for real-world tasks. I am interested in roles in algorithm engineering, applied machine learning, and research engineering.
 
 ## Education
 
@@ -23,10 +23,10 @@ Major GPA: **3.74/4.0**
 
 - **Programming:** Python, SQL, C
 - **Machine Learning:** BERT-family models, LightGBM, domain adaptation, weak supervision, active learning
-- **NLP and Retrieval:** long-document retrieval, retrieval-augmented generation, data pipeline design
+- **NLP and Retrieval:** long-document retrieval, retrieval-enhanced generation, data pipeline design
 - **AI Systems:** evaluation pipelines, robustness testing, tool-use workflows, system-oriented experimentation
 
-## Selected Experience
+## Selected Projects
 
 ### Evaluable Agent Benchmark and Adaptive Recovery Framework
 *Jan 2026 - Mar 2026*
@@ -49,6 +49,13 @@ Major GPA: **3.74/4.0**
 - Built a retrieval-augmented pipeline for **12,000+** Chinese legal documents.
 - Proposed a recursive content aggregation strategy for long-document retrieval.
 - Improved evaluation by **+0.25 BLEU-4** and **+0.30 ROUGE-L** on **2,000** samples.
+
+## Research Interests
+
+- Machine learning for real-world and domain-specific tasks
+- Information retrieval and knowledge-intensive AI systems
+- Evaluation and robustness of complex AI workflows
+- Research engineering for reliable deployment
 
 ## Honors
 

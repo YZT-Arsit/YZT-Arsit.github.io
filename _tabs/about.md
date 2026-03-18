@@ -6,7 +6,7 @@ order: 4
 
 Hi, I'm **Zhaoting Yang**, a Ph.D. researcher at the **Institute of Information Engineering, Chinese Academy of Sciences**. My work spans machine learning, natural language processing, information retrieval, and AI system design, with an emphasis on building methods that are both empirically strong and practically reliable.
 
-I am particularly interested in problems that require both research depth and engineering discipline, including model evaluation, domain adaptation, retrieval pipelines, and robust AI system development. I am actively seeking opportunities in **algorithm engineering, machine learning, research engineering, and applied AI**.
+I am particularly interested in problems that require both research depth and engineering discipline, including model evaluation, domain adaptation, retrieval pipelines, and robust AI system development. I am currently interested in opportunities in **algorithm engineering, machine learning, research engineering, and applied AI**.
 
 ## Education
 
@@ -21,9 +21,9 @@ Major GPA: **3.74/4.0**
 ## Core Strengths
 
 - **Programming:** Python, SQL, C
-- **LLM Engineering:** Prompt design, tool use, evaluation, robustness testing, agent workflows
 - **Machine Learning:** BERT-family models, LightGBM, domain adaptation, weak supervision, active learning
-- **RAG Systems:** Retrieval pipeline design, long-document processing, chunking and aggregation strategies
+- **Natural Language Processing:** long-document understanding, domain-specific modeling, retrieval-enhanced pipelines
+- **AI Systems:** evaluation design, robustness testing, tool-use workflows, system-oriented experimentation
 - **Languages:** English (Professional Working Proficiency, IELTS 7.0)
 
 ## Selected Projects
@@ -61,10 +61,10 @@ Major GPA: **3.74/4.0**
 
 I am most interested in roles where I can contribute to:
 
-- LLM application and agent system development
-- Retrieval, ranking, and knowledge-enhanced generation
-- Applied machine learning for security, search, or enterprise intelligence
-- Research-to-production collaboration in fast-moving AI teams
+- Machine learning and algorithm engineering for real-world products
+- Retrieval, ranking, and knowledge-intensive system design
+- Applied AI for security, search, or enterprise intelligence
+- Research-to-production collaboration in high-standard engineering teams
 
 ---
 Feel free to reach out via [Email](mailto:yangzhaoting21@mails.ucas.ac.cn) or connect with me on [LinkedIn](https://www.linkedin.com/in/zhaoting-yang).

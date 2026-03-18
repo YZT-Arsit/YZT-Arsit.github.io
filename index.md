@@ -8,9 +8,9 @@ permalink: /
 
 **Ph.D. Researcher in Machine Learning and AI Systems**
 
-I am a Ph.D. researcher at the Institute of Information Engineering, Chinese Academy of Sciences, with experience in machine learning, natural language processing, and AI system design. My work focuses on building reliable learning and retrieval pipelines, translating research ideas into robust implementations, and evaluating system performance under practical constraints.
+I am a Ph.D. researcher at the Institute of Information Engineering, Chinese Academy of Sciences. My work focuses on machine learning, natural language processing, information retrieval, and AI system design, with particular interest in turning research ideas into reliable and well-evaluated systems.
 
-I am actively looking for opportunities in:
+I am currently interested in opportunities in:
 
 - Algorithm engineering
 - Applied machine learning
@@ -26,7 +26,7 @@ I am actively looking for opportunities in:
 - **Current role:** Ph.D. Student, Institute of Information Engineering, Chinese Academy of Sciences
 - **Research areas:** machine learning, natural language processing, information retrieval, AI systems
 - **Primary languages:** Python, SQL, C
-- **Strengths:** model development, evaluation design, data pipeline construction, research-to-engineering execution
+- **Strengths:** model development, evaluation design, retrieval pipeline construction, research-to-engineering execution
 - **Language:** English professional working proficiency, IELTS 7.0
 
 ## Selected Highlights
@@ -56,6 +56,10 @@ I am actively looking for opportunities in:
 - Retrieval, ranking, and knowledge-enhanced pipelines for information-intensive scenarios
 - Data processing and modeling for noisy, weakly labeled, or domain-specific corpora
 - Research engineering work that values reproducibility, robustness, and measurable outcomes
+
+## Contact
+
+For opportunities, collaborations, or interviews, please reach out via [Email](mailto:yangzhaoting21@mails.ucas.ac.cn) or connect on [LinkedIn](https://www.linkedin.com/in/zhaoting-yang).
 
 ## Quick Links
 
