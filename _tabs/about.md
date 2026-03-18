@@ -4,48 +4,67 @@ icon: fas fa-info-circle
 order: 4
 ---
 
-[cite_start]Hi, I'm Zhaoting Yang[cite: 2]. [cite_start]I am a researcher and engineer currently pursuing my Ph.D. at the Institute of Information Engineering, Chinese Academy of Sciences (CAS)[cite: 7, 8]. [cite_start]My work bridges the gap between academic research and robust engineering, with a strong focus on Large Language Models (LLMs), Retrieval-Augmented Generation (RAG) [cite: 12][cite_start], and intelligent Agent systems[cite: 22].
+Hi, I'm **Zhaoting Yang**, a researcher and engineer working at the intersection of **LLMs, RAG, and intelligent agent systems**. I am currently pursuing a Ph.D. at the **Institute of Information Engineering, Chinese Academy of Sciences**, where I focus on turning research ideas into reliable, deployable AI systems.
 
-I am passionate about building scalable AI solutions and am actively seeking opportunities in algorithm engineering and machine learning.
+My work combines algorithm design, data-centric modeling, and system implementation. I am especially interested in building AI products that are not only strong on benchmarks, but also robust under noisy real-world constraints. I am actively seeking opportunities in **algorithm engineering, machine learning, and applied AI research**.
 
-## 🎓 Education
+## Education
 
-* [cite_start]**Institute of Information Engineering, Chinese Academy of Sciences** [cite: 7]
-  * *Ph.D. in Intelligent Cognitive Security* | [cite_start]Sep 2025 - Present [cite: 8, 11]
-  * [cite_start]*Major GPA:* 3.97/4.0 [cite: 8]
-* [cite_start]**University of Chinese Academy of Sciences (UCAS)** [cite: 5]
-  * *B.S. in Cyber Security* | [cite_start]Sep 2021 - Jun 2025 [cite: 6, 10]
-  * [cite_start]*Major GPA:* 3.74/4.0 [cite: 6]
+### Institute of Information Engineering, Chinese Academy of Sciences
+*Ph.D. in Intelligent Cognitive Security* | Sep 2025 - Present  
+Major GPA: **3.97/4.0**
 
-## 💻 Tech Stack
+### University of Chinese Academy of Sciences
+*B.S. in Cyber Security* | Sep 2021 - Jun 2025  
+Major GPA: **3.74/4.0**
 
-* [cite_start]**Programming:** Python, SQL, C [cite: 33]
-* [cite_start]**AI & Machine Learning:** LLMs, Agentic Workflows, RAG Architecture, BERT-family models, LightGBM [cite: 12, 20, 21, 24]
-* [cite_start]**Languages:** English (Professional Working Proficiency, IELTS 7.0) [cite: 34]
+## Core Strengths
 
-## 🚀 Featured Experience & Projects
+- **Programming:** Python, SQL, C
+- **LLM Engineering:** Prompt design, tool use, evaluation, robustness testing, agent workflows
+- **Machine Learning:** BERT-family models, LightGBM, domain adaptation, weak supervision, active learning
+- **RAG Systems:** Retrieval pipeline design, long-document processing, chunking and aggregation strategies
+- **Languages:** English (Professional Working Proficiency, IELTS 7.0)
+
+## Selected Projects
 
 ### Evaluable Agent Benchmark & Adaptive Recovery Framework
-[cite_start]*Jan 2026 - Mar 2026* [cite: 22]
-* [cite_start]**Architected** an evaluable tool-calling benchmark comprising 24 hierarchical tasks with strict validation rules (SQL/JSON matching)[cite: 23]. 
-* [cite_start]**Developed** an Adaptive Plan-then-Act Agent with robust noise-injection testing (handling parameter errors and missing steps)[cite: 24].
-* [cite_start]**Impact:** Achieved an **88% success rate** under tight budgets and high-noise scenarios (significantly outperforming the ReAct baseline of 25%), while drastically optimizing API usage by reducing average tool calls from 42.88 to 2.67[cite: 25, 26].
+*Jan 2026 - Mar 2026*
+
+- Designed a tool-calling benchmark with **24 hierarchical tasks** and strict automatic validation based on SQL and JSON matching.
+- Built an adaptive **Plan-then-Act agent** and evaluated it under injected noise, including parameter errors and missing intermediate steps.
+- Reached an **88% task success rate** in constrained, noisy settings, clearly outperforming a ReAct baseline at **25%**.
+- Reduced average tool calls from **42.88** to **2.67**, improving efficiency while preserving task completion quality.
 
 ### Enterprise Email Risk Taxonomy & Domain Adaptation
-[cite_start]*Jun 2025 - Sep 2025* [cite: 18]
-* [cite_start]**Engineered** a data pipeline leveraging weak supervision and active learning to process 24,000 unlabeled email logs, establishing a 5-class risk taxonomy[cite: 19].
-* [cite_start]**Optimized** model performance by conducting domain-specific Masked Language Modeling (MLM) pre-training and fine-tuning using `BERT-Base-Multilingual-Cased`, complemented by multi-dimensional security features (TF-IDF, IP/Geo data)[cite: 20, 21].
+*Jun 2025 - Sep 2025*
+
+- Built a weak-supervision and active-learning pipeline to process **24,000 unlabeled enterprise email logs**.
+- Defined a practical **5-class email risk taxonomy** for security-oriented downstream modeling.
+- Improved domain performance with task-specific MLM pre-training and fine-tuning on `BERT-Base-Multilingual-Cased`.
+- Incorporated structured security signals including TF-IDF, IP metadata, and geographic information to strengthen classification.
 
 ### Optimized RAG System for Legal Documents
-[cite_start]*Dec 2024 - Mar 2025* [cite: 13]
-* [cite_start]**Built** an end-to-end RAG (Retrieval-Augmented Generation) pipeline handling over 12,000 long-form Chinese legal documents[cite: 12, 14].
-* [cite_start]**Innovated** a recursive content aggregation strategy based on TOC extraction to resolve semantic fragmentation, successfully mitigating context loss in long-document retrieval[cite: 15].
-* [cite_start]**Impact:** Boosted Bleu-4 and Rouge-L scores by 0.25 and 0.3 respectively across 2,000 test samples[cite: 16].
+*Dec 2024 - Mar 2025*
 
-## 🏆 Honors & Leadership
+- Developed an end-to-end RAG pipeline for **12,000+ long-form Chinese legal documents**.
+- Proposed a recursive content aggregation strategy based on table-of-contents extraction to mitigate semantic fragmentation.
+- Improved long-document retrieval quality and reduced context loss in downstream generation.
+- Increased **BLEU-4 by 0.25** and **ROUGE-L by 0.30** on a **2,000-sample** evaluation set.
 
-* **Outstanding Teaching Assistant** | [cite_start]Database Systems & Security (Based on openGauss) (2025-2026) 
-* **Outstanding Communist Youth League Member** | [cite_start]UCAS (2024-2025) [cite: 30]
+## Honors
+
+- **Outstanding Teaching Assistant**, Database Systems & Security (based on openGauss), 2025-2026
+- **Outstanding Communist Youth League Member**, UCAS, 2024-2025
+
+## What I Am Looking For
+
+I am most interested in roles where I can contribute to:
+
+- LLM application and agent system development
+- Retrieval, ranking, and knowledge-enhanced generation
+- Applied machine learning for security, search, or enterprise intelligence
+- Research-to-production collaboration in fast-moving AI teams
 
 ---
-[cite_start]*Feel free to reach out via [Email](mailto:yangzhaoting21@mails.ucas.ac.cn) [cite: 3] or connect with me on LinkedIn.*
+Feel free to reach out via [Email](mailto:yangzhaoting21@mails.ucas.ac.cn) or connect with me on [LinkedIn](https://www.linkedin.com/in/zhaoting-yang).
