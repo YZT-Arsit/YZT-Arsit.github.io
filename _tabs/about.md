@@ -4,9 +4,9 @@ icon: fas fa-info-circle
 order: 4
 ---
 
-Hi, I'm **Zhaoting Yang**, a researcher and engineer working at the intersection of **LLMs, RAG, and intelligent agent systems**. I am currently pursuing a Ph.D. at the **Institute of Information Engineering, Chinese Academy of Sciences**, where I focus on turning research ideas into reliable, deployable AI systems.
+Hi, I'm **Zhaoting Yang**, a Ph.D. researcher at the **Institute of Information Engineering, Chinese Academy of Sciences**. My work spans machine learning, natural language processing, information retrieval, and AI system design, with an emphasis on building methods that are both empirically strong and practically reliable.
 
-My work combines algorithm design, data-centric modeling, and system implementation. I am especially interested in building AI products that are not only strong on benchmarks, but also robust under noisy real-world constraints. I am actively seeking opportunities in **algorithm engineering, machine learning, and applied AI research**.
+I am particularly interested in problems that require both research depth and engineering discipline, including model evaluation, domain adaptation, retrieval pipelines, and robust AI system development. I am actively seeking opportunities in **algorithm engineering, machine learning, research engineering, and applied AI**.
 
 ## Education
 

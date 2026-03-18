@@ -16,10 +16,10 @@ timezone: Asia/Shanghai
 
 title: Zhaoting Yang # the main title
 
-tagline: Ph.D. Student at CAS | LLM, RAG, and Agent Systems # it will display as the subtitle
+tagline: Ph.D. Researcher | Machine Learning and AI Systems # it will display as the subtitle
 
 description: >- # used by seo meta and the atom feed
-  Personal website of Zhaoting Yang, featuring research and engineering work in LLMs, RAG, intelligent agents, and applied machine learning.
+  Personal website of Zhaoting Yang, featuring research and engineering work in machine learning, natural language processing, information retrieval, and AI systems.
 
 # Fill in the protocol & hostname for your site.
 # E.g. 'https://username.github.io', note that it does not end with a '/'.

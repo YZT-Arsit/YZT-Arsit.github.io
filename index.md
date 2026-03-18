@@ -6,27 +6,27 @@ permalink: /
 
 # Zhaoting Yang
 
-**Ph.D. Student at CAS focused on LLMs, RAG, and Agent Systems**
+**Ph.D. Researcher in Machine Learning and AI Systems**
 
-I build AI systems that connect research ideas with practical deployment. My work centers on large language models, retrieval-augmented generation, intelligent agents, and applied machine learning for real-world scenarios including security and enterprise intelligence.
+I am a Ph.D. researcher at the Institute of Information Engineering, Chinese Academy of Sciences, with experience in machine learning, natural language processing, and AI system design. My work focuses on building reliable learning and retrieval pipelines, translating research ideas into robust implementations, and evaluating system performance under practical constraints.
 
 I am actively looking for opportunities in:
 
 - Algorithm engineering
 - Applied machine learning
-- LLM and agent system development
-- Research engineering and AI infrastructure
+- Research engineering
+- AI system development
 
-[View Full Profile](/about/) | [GitHub](https://github.com/YZT-Arsit) | [LinkedIn](https://www.linkedin.com/in/zhaoting-yang) | [Email](mailto:yangzhaoting21@mails.ucas.ac.cn)
+[Resume](/resume/) | [About](/about/) | [GitHub](https://github.com/YZT-Arsit) | [LinkedIn](https://www.linkedin.com/in/zhaoting-yang) | [Email](mailto:yangzhaoting21@mails.ucas.ac.cn)
 
 ---
 
 ## Snapshot
 
 - **Current role:** Ph.D. Student, Institute of Information Engineering, Chinese Academy of Sciences
-- **Core areas:** LLMs, RAG, agents, domain adaptation, weak supervision, long-document retrieval
+- **Research areas:** machine learning, natural language processing, information retrieval, AI systems
 - **Primary languages:** Python, SQL, C
-- **Working style:** research-driven, metric-oriented, engineering-conscious
+- **Strengths:** model development, evaluation design, data pipeline construction, research-to-engineering execution
 - **Language:** English professional working proficiency, IELTS 7.0
 
 ## Selected Highlights
@@ -52,13 +52,14 @@ I am actively looking for opportunities in:
 
 ## What I Can Contribute
 
-- Design and evaluation of LLM or agent workflows
-- Retrieval and ranking pipelines for knowledge-intensive tasks
-- Data pipelines for noisy or weakly labeled enterprise data
-- Research-to-production collaboration with measurable outcomes
+- Design and evaluation of machine learning systems for real-world tasks
+- Retrieval, ranking, and knowledge-enhanced pipelines for information-intensive scenarios
+- Data processing and modeling for noisy, weakly labeled, or domain-specific corpora
+- Research engineering work that values reproducibility, robustness, and measurable outcomes
 
 ## Quick Links
 
+- [Resume](/resume/): concise profile for application and interview use
 - [About](/about/): detailed background, education, honors, and project descriptions
 - [GitHub Profile](https://github.com/YZT-Arsit): code and repository activity
 - [LinkedIn](https://www.linkedin.com/in/zhaoting-yang): professional profile and contact
