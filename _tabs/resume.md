@@ -44,8 +44,8 @@ Ph.D. researcher at the Institute of Information Engineering, Chinese Academy of
 *Jan 2026 - Mar 2026*
 
 - Designed **AutoToolBench**, an offline benchmark covering **24 complex tasks** for enterprise tool-use scenarios.
-- Built a closed-loop framework with perceive, plan, execute, reflect, and replan stages for more stable multi-step execution.
-- Developed patch-and-replan recovery strategies and dynamic budget control for tool calls, steps, and runtime.
+- Built a closed-loop framework with perceive, plan, execute, reflect, and replan stages to improve the stability of multi-step execution.
+- Developed patch-and-replan recovery strategies and dynamic budget control for tool calls, execution steps, and runtime.
 - Improved success rate from **25%** to **88%** under deterministic noise injection and strict execution budgets.
 
 ### Enterprise Email Risk Taxonomy and Domain Adaptation
@@ -53,17 +53,17 @@ Ph.D. researcher at the Institute of Information Engineering, Chinese Academy of
 
 - Processed **24,000** unlabeled enterprise email logs using weak supervision and active learning.
 - Defined a 5-class risk taxonomy for enterprise email security analysis.
-- Built iterative silver and gold datasets through prompt-based weak supervision, manual correction, and multi-teacher consensus.
+- Built iterative silver and gold datasets through prompt-based weak supervision, manual review, and multi-teacher consensus.
 - Improved Macro-F1 by **5%** over a multilingual BERT baseline using weak soft-label distillation.
 - Established TF-IDF plus logistic regression baselines and strict evaluation isolation for deployment-oriented assessment.
 
 ### RAG System for Legal Documents
 *Dec 2024 - Mar 2025*
 
-- Built a retrieval-augmented pipeline for **12,000+** Chinese legal documents, covering parsing, chunking, indexing, retrieval, and generation.
+- Built a retrieval-augmented pipeline for **12,000+** Chinese legal documents, covering parsing, chunking, indexing, retrieval, and answer generation.
 - Designed structure-aware chunking and context processing for long legal documents with cross-section evidence.
 - Compared raw versus processed contexts and extractive baselines versus LLM generation through targeted evaluation and error analysis.
-- Verified that processed contexts consistently improved retrieval usefulness and downstream answer quality.
+- Verified that processed contexts consistently improved retrieval quality and downstream answer quality.
 
 ## Research Interests
 
