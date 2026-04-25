@@ -7,7 +7,7 @@ order: 1
 
 ## Summary
 
-Ph.D. researcher at the Institute of Information Engineering, Chinese Academy of Sciences, with training in machine learning, natural language processing, retrieval-augmented generation, agent systems, and AI system evaluation. Interested in algorithm engineering, applied machine learning, and research engineering roles.
+Ph.D. researcher at the Institute of Information Engineering, Chinese Academy of Sciences. My current work focuses on privacy and security for large language models and agent systems, with a growing interest in machine learning, retrieval and ranking, agent systems, and data-driven AI applications. I am interested in roles related to machine learning, research engineering, applied AI systems, and quantitative research engineering.
 
 ## Contact
 
@@ -31,47 +31,64 @@ Ph.D. researcher at the Institute of Information Engineering, Chinese Academy of
 
 ## Skills
 
-- **Programming:** Python, SQL, C
-- **Frameworks and Tools:** PyTorch, HuggingFace, scikit-learn, Pandas, NumPy, LangChain
-- **Machine Learning:** BERT-family models, LightGBM, domain adaptation, weak supervision, active learning
-- **Large Model Applications:** prompting, weak supervision, retrieval-augmented generation, LoRA fine-tuning, RLHF fundamentals
-- **NLP and Retrieval:** long-document retrieval, retrieval-enhanced generation, data pipeline design
-- **AI Systems:** evaluation pipelines, robustness testing, tool-use workflows, system-oriented experimentation
+- **Programming:** Python, SQL, C, Linux, Git
+- **Frameworks and Tools:** PyTorch, scikit-learn, LightGBM, Pandas, NumPy, HuggingFace
+- **Machine Learning:** weak supervision, distillation, domain adaptation, classification, ranking, model evaluation
+- **NLP, Retrieval, and LLM Systems:** BM25, dense retrieval, reranking, long-document processing, retrieval-augmented generation, prompt-based labeling, LoRA fine-tuning, tool-use workflows
+- **Quantitative Research:** factor engineering, cross-sectional prediction, rolling validation, backtesting, robustness analysis
+- **Experimentation:** ablation studies, error analysis, reproducible pipelines, robustness testing
+- **Certification:** CFA Level I Passed
 
 ## Selected Projects
 
-### Evaluable Agent Benchmark and Adaptive Recovery Framework
-*Jan 2026 - Mar 2026*
+### Cross-Sectional Quant Research Pipeline
+*Feb 2026 - May 2026*
 
-- Designed **AutoToolBench**, an offline benchmark covering **24 complex tasks** for enterprise tool-use scenarios.
-- Built a closed-loop framework with perceive, plan, execute, reflect, and replan stages to improve the stability of multi-step execution.
-- Developed patch-and-replan recovery strategies and dynamic budget control for tool calls, execution steps, and runtime.
-- Improved success rate from **25%** to **88%** under deterministic noise injection and strict execution budgets.
+- Built a research-oriented quantitative pipeline for U.S. equities using daily OHLCV data, covering data ingestion, dynamic universe construction, feature generation, rolling training, portfolio backtesting, and report generation.
+- Designed cross-sectional factor features from momentum, volatility, volume-price interaction, and technical indicators, and compared Ridge and LightGBM under rolling and expanding validation schemes for 5-day return and excess return prediction.
+- Implemented Top-K, decile, and long-short portfolio construction with transaction cost assumptions, execution analysis, capacity checks, drawdown analysis, and parameter sensitivity studies.
+- Added experiment tracking, robustness analysis, and automated markdown reporting to support reproducible research and systematic result comparison.
 
-### Enterprise Email Risk Taxonomy and Domain Adaptation
+### Agentic Reinforcement Learning for Code Task Trajectory Filtering
+*Dec 2025 - Feb 2026*
+
+- Reproduced an Agentic RL training and evaluation workflow for code-generation tasks based on Open-AgentRL, with a focus on low-quality rollout filtering in multi-step interaction settings.
+- Designed trajectory quality rules to detect repeated actions, ineffective execution, and abnormally long trajectories, and used filtering and reweighting to reduce noisy training signals.
+- Built baseline, full-filtering, and single-rule ablation experiments to measure the contribution of different filtering rules on policy learning.
+- Improved task success rate on **LiveCodeBench code_generation_lite** from **22.83%** to **27.41%**, while reducing average trajectory length by **13.2%**.
+
+### Evaluable Agent Benchmark & Adaptive Recovery Framework
+*Oct 2025 - Dec 2026*
+
+- Designed **AutoToolBench**, an offline benchmark covering **24 complex enterprise-style tasks** with strict validation based on outputs such as SQL results, logs, and file structures.
+- Built a closed-loop adaptive framework with perceive, plan, execute, reflect, and replan stages.
+- Introduced patch-and-replan recovery strategies and dynamic budget control to balance task success with execution cost.
+- Improved complex task success rate from **25%** to **88%** under deterministic noise injection and tight execution budgets.
+
+### Enterprise Email Risk Taxonomy & Domain Adaptation
 *Jun 2025 - Sep 2025*
 
-- Processed **24,000** unlabeled enterprise email logs using weak supervision and active learning.
-- Defined a 5-class risk taxonomy for enterprise email security analysis.
-- Built iterative silver and gold datasets through prompt-based weak supervision, manual review, and multi-teacher consensus.
-- Improved Macro-F1 by **5%** over a multilingual BERT baseline using weak soft-label distillation.
-- Established TF-IDF plus logistic regression baselines and strict evaluation isolation for deployment-oriented assessment.
+- Processed **24,000 heterogeneous unlabeled enterprise email logs** to build a **5-class** risk identification task covering phishing, impersonation, malicious links, and attachments.
+- Designed structured prompting for weak supervision, combined with manual review and multi-teacher consensus to iteratively construct silver and gold datasets.
+- Explored LLM-to-Transformer soft-label distillation and identified a weak distillation setting that improved generalization without amplifying long-tail noise.
+- Achieved a **5% Macro-F1 improvement** over a multilingual BERT baseline while maintaining efficient deployment potential.
 
-### RAG System for Legal Documents
+### Optimized RAG System for Legal Documents
 *Dec 2024 - Mar 2025*
 
-- Built a retrieval-augmented pipeline for **12,000+** Chinese legal documents, covering parsing, chunking, indexing, retrieval, and answer generation.
-- Designed structure-aware chunking and context processing for long legal documents with cross-section evidence.
-- Compared raw versus processed contexts and extractive baselines versus LLM generation through targeted evaluation and error analysis.
-- Verified that processed contexts consistently improved retrieval quality and downstream answer quality.
+- Built an end-to-end RAG pipeline for **12,000+ Chinese legal documents**, covering PDF parsing, structured chunking, knowledge indexing, retrieval, and answer generation.
+- Designed document-structure-aware chunking and context processing to preserve evidence integrity in long legal texts.
+- Compared raw versus processed contexts and extractive baselines versus LLM generation through task-specific evaluation and error analysis.
+- Verified that processed contexts delivered consistent gains, with LLM-based generation on processed contexts achieving the strongest overall performance.
 
 ## Research Interests
 
-- Machine learning for real-world and domain-specific tasks
-- Natural language processing and retrieval-augmented generation
-- Information retrieval and knowledge-intensive AI systems
-- Evaluation and robustness of agent systems and complex AI workflows
-- Research engineering for reliable deployment
+- privacy and security for large language models
+- privacy protection for agent systems
+- machine learning and research engineering
+- retrieval, ranking, and knowledge-intensive AI systems
+- evaluation and robustness of complex AI workflows
+- quantitative modeling and systematic experimentation
 
 ## Honors and Activities
 
