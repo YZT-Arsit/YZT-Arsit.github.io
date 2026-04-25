@@ -20,17 +20,34 @@ Major GPA: **3.74/4.0**
 
 ## Core Strengths
 
-- **Programming:** Python, SQL, C
-- **Machine Learning:** BERT-family models, LightGBM, domain adaptation, weak supervision, active learning
-- **Natural Language Processing and Retrieval:** long-document understanding, domain-specific modeling, retrieval-enhanced pipelines
-- **Large Model Applications:** prompt-based weak supervision, knowledge-enhanced generation, LoRA fine-tuning, RLHF fundamentals
-- **AI Systems:** evaluation design, robustness testing, tool-use workflows, system-oriented experimentation
+- **Programming:** Python, SQL, C, Linux, Git
+- **Machine Learning:** scikit-learn, LightGBM, PyTorch, weak supervision, distillation, domain adaptation
+- **NLP, Retrieval, and LLM Systems:** BM25, dense retrieval, reranking, long-document processing, retrieval-augmented generation, prompt-based labeling, LoRA fine-tuning, tool-use workflows, evaluation and failure analysis
+- **Quantitative Research:** factor engineering, cross-sectional prediction, rolling validation, backtesting, robustness analysis
+- **Data and Experimentation:** data cleaning, feature engineering, ablation studies, error analysis, reproducible pipelines
+- **Certifications:** CFA Level I Passed
 - **Languages:** English (Professional Working Proficiency, IELTS 7.0)
 
 ## Selected Projects
 
+### Cross-Sectional Quant Research Pipeline
+*Feb 2026 - May 2026*
+
+- Built a research-oriented quantitative pipeline for U.S. equities using daily OHLCV data, covering data ingestion, dynamic universe construction, feature generation, rolling training, portfolio backtesting, and report generation.
+- Designed cross-sectional factor features from momentum, volatility, volume-price interaction, and technical indicators, and compared Ridge and LightGBM under rolling and expanding validation schemes for 5-day return and excess return prediction.
+- Implemented Top-K, decile, and long-short portfolio construction with transaction cost assumptions, execution analysis, capacity checks, drawdown analysis, and parameter sensitivity studies.
+- Added experiment tracking, robustness analysis, and automated markdown reporting to support reproducible research and systematic result comparison.
+
+### Agentic Reinforcement Learning for Code Task Trajectory Filtering
+*Dec 2025 - Feb 2026*
+
+- Reproduced an Agentic RL training and evaluation workflow for code-generation tasks based on Open-AgentRL, with a focus on low-quality rollout filtering in multi-step interaction settings.
+- Designed trajectory quality rules to detect repeated actions, ineffective execution, and abnormally long trajectories, and used filtering and reweighting to reduce noisy training signals.
+- Built baseline, full-filtering, and single-rule ablation experiments to measure the contribution of different filtering rules on policy learning.
+- Improved task success rate on **LiveCodeBench code_generation_lite** from **22.83%** to **27.41%**, while reducing average trajectory length by **13.2%**.
+
 ### Evaluable Agent Benchmark & Adaptive Recovery Framework
-*Jan 2026 - Mar 2026*
+*Oct 2025 - Dec 2026*
 
 - Designed **AutoToolBench**, an offline benchmark covering **24 complex enterprise-style tasks** with strict validation based on outputs such as SQL results, logs, and file structures.
 - Built a closed-loop adaptive framework with perceive, plan, execute, reflect, and replan stages.
@@ -62,10 +79,18 @@ Major GPA: **3.74/4.0**
 
 I am most interested in roles where I can contribute to:
 
-- Machine learning and algorithm engineering for real-world products
-- Retrieval, ranking, and knowledge-intensive system design
-- Applied AI for security, search, or enterprise intelligence
-- Research-to-production collaboration in high-standard engineering teams
+- **Machine Learning / Algorithm Engineering**
+- **Research Engineering**
+- **Applied AI Systems**
+- **Quantitative Research Engineering**
+
+I am especially interested in roles involving one or more of the following:
+
+- data-centric modeling and evaluation
+- retrieval, ranking, and knowledge-intensive systems
+- robust LLM applications and agent workflows
+- quantitative modeling, backtesting, and systematic experimentation
+- research-to-engineering collaboration in high-standard teams
 
 ---
 Feel free to reach out via [Email](mailto:yangzhaoting21@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/zhaoting-yang).
