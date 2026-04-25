@@ -4,7 +4,7 @@ icon: fas fa-info-circle
 order: 4
 ---
 
-Hi, I'm **Zhaoting Yang**, a Ph.D. researcher at the **Institute of Information Engineering, Chinese Academy of Sciences**. My work focuses on machine learning, retrieval and ranking, agent systems, and data-driven AI applications. I am particularly interested in privacy and security problems in large language models and agent systems, as well as building methods that are empirically grounded and practical to evaluate.
+Hi, I'm **Zhaoting Yang**, a Ph.D. researcher at the **Institute of Information Engineering, Chinese Academy of Sciences**. My work focuses on privacy and security problems in large language models and agent systems. I am particularly interested in machine learning, retrieval and ranking, agent systems, and data-driven AI applications, as well as building methods that are empirically grounded and practical to evaluate.
 
 My recent work includes agent benchmarks and adaptive recovery, trajectory filtering for Agentic RL, weak supervision for enterprise email risk detection, retrieval systems for long-form legal documents, and cross-sectional quantitative research with factor modeling and machine learning.
 
