@@ -6,16 +6,11 @@ permalink: /
 
 # Zhaoting Yang
 
-**Ph.D. Researcher in Machine Learning, NLP, and AI Systems**
+**Ph.D. Researcher in LLM Privacy, Agent Privacy, and AI Systems**
 
-I am a Ph.D. researcher at the Institute of Information Engineering, Chinese Academy of Sciences. My work focuses on machine learning, natural language processing, retrieval-augmented generation, agent systems, and applied AI for enterprise and security applications. I am particularly interested in turning research ideas into reliable systems with rigorous evaluation and practical constraints.
+I am a Ph.D. researcher at the Institute of Information Engineering, Chinese Academy of Sciences. My current work focuses on privacy and security problems in large language models and agent systems, with related experience in machine learning, retrieval, system evaluation, and data-driven AI applications.
 
-I am currently interested in opportunities in:
-
-- Algorithm engineering
-- Applied machine learning
-- Research engineering
-- AI system development
+I am particularly interested in building methods that are empirically grounded, security-aware, and practical to deploy.
 
 [Resume](/resume/) | [About](/about/) | [GitHub](https://github.com/YZT-Arsit) | [LinkedIn](https://www.linkedin.com/in/zhaoting-yang) | [Email](mailto:yangzhaoting21@gmail.com)
 
@@ -24,48 +19,49 @@ I am currently interested in opportunities in:
 ## Snapshot
 
 - **Current role:** Ph.D. Student, Institute of Information Engineering, Chinese Academy of Sciences
-- **Research areas:** machine learning, natural language processing, retrieval-augmented generation, agent systems, enterprise security intelligence
-- **Primary languages:** Python, SQL, C
-- **Strengths:** data pipeline construction, model evaluation, retrieval pipeline design, research-to-engineering execution
+- **Current focus:** LLM privacy protection, agent privacy protection, secure and reliable AI systems
+- **Research areas:** machine learning, NLP, retrieval, agent systems, quantitative modeling
+- **Technical stack:** Python, SQL, C, PyTorch, scikit-learn, LightGBM, Linux, Git
+- **Research focus:** data-centric modeling, system evaluation, reproducible experimentation, research-to-engineering workflows
+- **Certification:** CFA Level I Passed
 - **Language:** English professional working proficiency, IELTS 7.0
 
-## Selected Highlights
+## Selected Work
 
-### Agent Benchmark and Recovery Framework
+### Cross-Sectional Quant Research Pipeline
 
-- Built **AutoToolBench**, an offline benchmark covering **24 complex tasks** for enterprise tool-use scenarios.
-- Developed a closed-loop framework with perception, planning, execution, reflection, and replanning to improve the stability of multi-step execution.
-- Designed patch-and-replan recovery strategies and dynamic budget control for tool calls, execution steps, and runtime.
-- Improved success rate from **25%** to **88%** under deterministic noise injection and strict execution budgets.
+- Built a research-oriented quantitative pipeline for U.S. equities using daily OHLCV data, covering data ingestion, dynamic universe construction, feature generation, rolling training, portfolio backtesting, and report generation.
+- Designed factor features from momentum, volatility, volume-price interaction, and technical indicators, and compared Ridge and LightGBM under rolling and expanding validation schemes for 5-day return and excess return prediction.
+- Implemented Top-K, decile, and long-short portfolio construction with transaction cost assumptions, execution analysis, capacity checks, drawdown analysis, and parameter sensitivity studies.
+- Added experiment tracking, robustness analysis, and automated markdown reporting to support reproducible research and systematic result comparison.
+
+### Agentic Reinforcement Learning for Code Tasks
+
+- Reproduced an Agentic RL training and evaluation workflow for code-generation tasks and focused on low-quality rollout filtering in multi-step interaction settings.
+- Designed trajectory quality rules to detect repeated actions, ineffective execution, and abnormally long trajectories, and used filtering and reweighting to reduce noisy training signals.
+- Built baseline, full-filtering, and single-rule ablation experiments to evaluate the contribution of different filtering rules.
+- Improved task success rate on **LiveCodeBench code_generation_lite** from **22.83%** to **27.41%**, while reducing average trajectory length by **13.2%**.
 
 ### Enterprise Email Risk Modeling
 
-- Processed **24,000 unlabeled enterprise email logs** to build a **5-class** enterprise email risk identification task.
-- Combined prompt-based weak supervision, manual review, and multi-teacher consensus to iteratively construct silver and gold datasets.
+- Processed **24,000 heterogeneous enterprise email logs** to construct a **5-class** email risk identification task covering phishing, impersonation, malicious links, and malicious attachments.
+- Combined prompt-based weak supervision, manual review, and multi-teacher consensus to iteratively build silver and gold datasets.
 - Explored soft-label distillation from LLMs to a lightweight Transformer for deployment-oriented modeling.
 - Improved Macro-F1 by **5%** over a multilingual BERT baseline while preserving practical inference efficiency.
 
-### Legal Document RAG System
+## Interests
 
-- Built an end-to-end RAG pipeline for **12,000+ Chinese legal documents**, including PDF parsing, structured chunking, retrieval, and answer generation.
-- Designed document-structure-aware chunking and context processing for long legal documents with hierarchical evidence.
-- Compared raw versus processed contexts and extractive baselines versus LLM generation through targeted evaluation and error analysis.
-- Verified that processed contexts consistently improved answer quality, with LLM-based generation on processed contexts delivering the best overall performance.
+I am currently interested in work related to:
 
-## What I Can Contribute
-
-- Design and evaluation of machine learning systems for real-world tasks
-- Retrieval, ranking, and knowledge-enhanced pipelines for information-intensive applications
-- Data processing and modeling for noisy, weakly labeled, or domain-specific corpora
-- Research engineering work that values reproducibility, robustness, and measurable outcomes
-
-## Contact
-
-For opportunities, collaborations, or interviews, please reach out via [Email](mailto:yangzhaoting21@gmail.com) or connect on [LinkedIn](https://www.linkedin.com/in/zhaoting-yang).
+- machine learning and research engineering
+- LLM privacy and security
+- agent privacy and secure agent systems
+- applied AI systems with reliability and security constraints
+- quantitative research engineering
 
 ## Quick Links
 
-- [Resume](/resume/): concise profile for application and interview use
-- [About](/about/): detailed background, education, honors, and project descriptions
-- [GitHub Profile](https://github.com/YZT-Arsit): code and repository activity
-- [LinkedIn](https://www.linkedin.com/in/zhaoting-yang): professional profile and contact
+- [Resume](/resume/)
+- [About](/about/)
+- [GitHub](https://github.com/YZT-Arsit)
+- [LinkedIn](https://www.linkedin.com/in/zhaoting-yang)
