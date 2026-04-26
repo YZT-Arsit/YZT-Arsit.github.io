@@ -49,6 +49,13 @@ Ph.D. researcher at the Institute of Information Engineering, Chinese Academy of
 - Implemented Top-K, decile, and long-short portfolio construction with transaction cost assumptions, execution analysis, capacity checks, drawdown analysis, and parameter sensitivity studies.
 - Added experiment tracking, robustness analysis, and automated markdown reporting to support reproducible research and systematic result comparison.
 
+### Multi-Asset ETF Trend Following & Risk Allocation
+*Feb 2026 - May 2026*
+
+- Built a multi-asset ETF research pipeline covering data ingestion, time-series trend signal generation, risk allocation, backtesting, baseline comparison, parameter sweep, regime analysis, and report generation.
+- Implemented momentum, moving-average crossover, breakout, and risk-adjusted momentum signals, and compared equal weight, inverse volatility, and risk parity allocation methods.
+- Used the project as a complementary implementation to the cross-sectional equity selection pipeline, covering time-series momentum and multi-asset allocation research.
+
 ### Agentic Reinforcement Learning for Code Task Trajectory Filtering
 *Dec 2025 - Feb 2026*
 
