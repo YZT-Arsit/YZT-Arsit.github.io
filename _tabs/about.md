@@ -38,6 +38,14 @@ Major GPA: **3.74/4.0**
 - Implemented Top-K, decile, and long-short portfolio construction with transaction cost assumptions, execution analysis, capacity checks, drawdown analysis, and parameter sensitivity studies.
 - Added experiment tracking, robustness analysis, and automated markdown reporting to support reproducible research and systematic result comparison.
 
+### Multi-Asset ETF Trend Following & Risk Allocation
+*Feb 2026 - May 2026*
+
+- Built a multi-asset ETF research pipeline using daily market data, covering time-series signal generation, volatility estimation, risk allocation, portfolio backtesting, and report generation.
+- Implemented momentum, moving-average crossover, breakout, and risk-adjusted momentum signals across ETFs representing equities, bonds, commodities, real estate, and currency exposure.
+- Compared equal weight, inverse volatility, and risk parity allocation methods under different rebalance frequencies and transaction cost assumptions.
+- Added baseline comparison, parameter sensitivity analysis, regime analysis, and automated markdown reporting for systematic result review.
+
 ### Agentic Reinforcement Learning for Code Task Trajectory Filtering
 *Dec 2025 - Feb 2026*
 
